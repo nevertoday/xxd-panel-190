@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 190｜Naive Cool Pastel with Warm Accents: keeps only a few visual clues from a photo and draws them as a small naive pastel vignette — simple shapes, soft loose edges, simplified perspective and proportions — in oil pastel, dry pastel, crayon and a little gouache with visible grain, smudging, bare paper and layered strokes. Cool grey pastels (grey-blue, misty blue, misty violet, grey-green) set the mood, often in horizontal bands, with a small warm note of brick red, pink-brown, apricot or soft orange. The vignette floats in wide deliberate whitespace that reads as sky, air or silence, with a few light, literary words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-190 or asks for naive oil-pastel or chalk-pastel poetic vignettes with cool tones and warm accents from a photo.",
+  "short_description": "冷主暖辅朴拙粉彩：把照片画成一幅小小的朴拙粉彩小品，冷灰调为主，点一点暖色",
+  "zh-CN": {
+    "name": "冷主暖辅朴拙粉彩",
+    "tagline": "把照片画成一幅小小的朴拙粉彩小品，冷灰调为主，只点一点暖色。",
+    "look": "照片只留下少量最能代表它的线索，画成一幅很小的朴拙小品：形体简单、轮廓柔软，透视和比例都被概括。用油画棒、干粉彩、粉蜡笔和少量不透明水粉，保留颗粒、擦蹭、露底和叠色。主色是灰蓝、雾蓝、雾紫、灰绿这类冷灰调粉彩，常用横向色带分层，再用一点砖红、粉棕、暖杏或柔橙点题。四周大片空白像天空、空气或沉默，配几个轻细的人文感小字。",
+    "traits": ["朴拙粉彩", "冷主暖辅", "粉质颗粒", "小图幅", "诗性留白"],
+    "good": [
+      "安静、有情绪的风景片段：海边、远山、田野、黄昏的屋顶",
+      "一个人或一个物件在空旷环境里：海边的背影、窗边的椅子、雪地里的树",
+      "想做诗集插画、旅行笔记或私人小册的照片"
+    ],
+    "poor": [
+      "需要细节准确的照片：人像、商品、建筑测绘",
+      "色彩鲜艳、热闹的场面：游乐园、霓虹街、节日市集",
+      "想要完整风景、写实精描或光滑数字质感的需求"
+    ]
+  },
+  "en": {
+    "name": "Naive Cool Pastel with Warm Accents",
+    "tagline": "Draws a photo as a small naive pastel vignette in cool greys, with only a touch of warm colour.",
+    "look": "Only a few clues that best stand for your photo are kept and drawn as a very small naive vignette: simple shapes, soft outlines, perspective and proportions simplified. It is made with oil pastel, dry pastel, crayon and a little gouache, keeping the grain, smudges, bare paper and layered strokes. The main colours are cool grey pastels such as grey-blue, misty blue, misty violet and grey-green, often laid in horizontal bands, with a small warm note of brick red, pink-brown, apricot or soft orange. Wide empty space around it reads as sky, air or silence, with a few light, literary words.",
+    "traits": ["Naive pastel", "Cool with warm accent", "Chalky grain", "Small vignette", "Poetic whitespace"],
+    "good": [
+      "Quiet, moody fragments of landscape: a beach, distant hills, fields, rooftops at dusk",
+      "One person or object in an open space: a figure seen from behind by the sea, a chair by a window, a tree in snow",
+      "Photos you want for a poetry book, a travel journal or a small private zine"
+    ],
+    "poor": [
+      "Photos that need accurate detail: portraits, products, architectural surveys",
+      "Bright, busy scenes: amusement parks, neon streets, festival markets",
+      "Requests for a complete landscape, realistic fine rendering or a smooth digital finish"
+    ]
+  },
+  "ja": {
+    "name": "寒色主体の素朴なパステル",
+    "tagline": "写真を寒色のグレートーンを主にした小さな素朴なパステル画にし、暖色をほんの少し添えます。",
+    "look": "写真をいちばんよく表す手がかりだけを少し残し、ごく小さな素朴な小品として描きます。形はシンプルで輪郭は柔らかく、遠近や比率も簡略化します。オイルパステル、ドライパステル、クレヨン、少量の不透明水彩を使い、粒子、こすれ、紙の地、重ね塗りを残します。主な色は灰青、霧のような青、霧のような紫、灰緑などの寒色寄りのグレイッシュなパステルで、横の色帯で層をつくることが多く、レンガ色、ピンクがかった茶、杏色、柔らかな橙をほんの少し差します。周りの大きな余白は空や空気、沈黙のように見え、軽やかで人文的な小さな文字を数語添えます。",
+    "traits": ["素朴なパステル", "寒色に暖色の差し色", "粉っぽい粒子", "小さな画面", "詩的な余白"],
+    "good": [
+      "静かで情感のある風景の断片：海辺、遠くの山、畑、夕暮れの屋根",
+      "広い空間にいる一人や一つの物：海辺の後ろ姿、窓辺の椅子、雪の中の木",
+      "詩集の挿絵、旅のノート、個人的な小冊子にしたい写真"
+    ],
+    "poor": [
+      "正確な細部が必要な写真：人物、商品、建築の実測",
+      "色鮮やかで賑やかな場面：遊園地、ネオン街、お祭りの市場",
+      "風景全体の描写、写実的な細密描写、滑らかなデジタルの質感を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "차가운 파스텔과 따뜻한 강조색",
+    "tagline": "사진을 차가운 회색조의 작은 소박한 파스텔 그림으로 그리고 따뜻한 색을 한 점만 더합니다.",
+    "look": "사진을 가장 잘 나타내는 단서만 조금 남겨 아주 작은 소박한 그림으로 그립니다. 형태는 단순하고 윤곽은 부드러우며 원근과 비율도 단순하게 정리합니다. 오일 파스텔, 드라이 파스텔, 크레용, 약간의 과슈를 써서 입자, 문지른 자국, 드러난 종이, 겹친 색을 남깁니다. 주색은 회청색, 안개 파랑, 안개 보라, 회녹색 같은 차가운 회색조 파스텔이고, 가로 색띠로 층을 나누는 일이 많으며, 벽돌색, 분홍빛 갈색, 살구색, 부드러운 주황을 아주 조금 더합니다. 둘레의 넓은 여백은 하늘이나 공기, 침묵처럼 보이고, 가볍고 인문적인 작은 글자 몇 개를 둡니다.",
+    "traits": ["소박한 파스텔", "차가운 색과 따뜻한 포인트", "분필 같은 입자", "작은 화면", "시적인 여백"],
+    "good": [
+      "조용하고 감정이 있는 풍경 조각: 바닷가, 먼 산, 들판, 해 질 녘 지붕",
+      "넓은 공간 속 한 사람이나 한 사물: 바닷가의 뒷모습, 창가 의자, 눈 속 나무",
+      "시집 삽화, 여행 노트, 개인 소책자로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "정확한 디테일이 필요한 사진: 인물, 상품, 건축 실측",
+      "색이 화려하고 북적이는 장면: 놀이공원, 네온 거리, 축제 시장",
+      "풍경 전체, 사실적인 세밀 묘사, 매끈한 디지털 질감을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "باستيل عفوي بارد بلمسات دافئة",
+    "tagline": "يرسم الصورة لوحةً صغيرة عفوية بالباستيل في درجات رمادية باردة، مع لمسة دافئة واحدة فقط.",
+    "look": "لا يبقى من صورتك إلا قليل من الدلائل التي تمثلها أفضل تمثيل، تُرسم في لوحة صغيرة جداً عفوية: أشكال بسيطة وحدود ناعمة ومنظور ونِسب مبسطة. تُنفَّذ بالباستيل الزيتي والباستيل الجاف وأقلام الشمع وقليل من الغواش، مع إبقاء الحبيبات وآثار الفرك وظهور الورق وتراكب الطبقات. الألوان الرئيسية باستيل رمادي بارد مثل الأزرق الرمادي والأزرق الضبابي والبنفسجي الضبابي والأخضر الرمادي، تُوزَّع غالباً في أشرطة أفقية، مع لمسة دافئة صغيرة من الأحمر الطوبي أو البني الوردي أو المشمشي أو البرتقالي الناعم. الفراغ الواسع حولها يبدو سماءً أو هواءً أو صمتاً، مع كلمات قليلة خفيفة ذات طابع أدبي.",
+    "traits": ["باستيل عفوي", "برودة مع لمسة دافئة", "حبيبات طباشيرية", "لوحة صغيرة", "فراغ شاعري"],
+    "good": [
+      "شذرات هادئة من مناظر طبيعية مفعمة بالمشاعر: شاطئ، تلال بعيدة، حقول، أسطح عند الغروب",
+      "شخص واحد أو شيء واحد في مكان مفتوح: ظهر شخص عند البحر، كرسي قرب نافذة، شجرة في الثلج",
+      "صور تريدها رسماً لديوان شعر أو دفتر سفر أو كتيّب شخصي صغير"
+    ],
+    "poor": [
+      "صور تحتاج إلى تفاصيل دقيقة: الصور الشخصية، المنتجات، المسوحات المعمارية",
+      "المشاهد الزاهية المزدحمة: مدن الملاهي، شوارع النيون، أسواق المهرجانات",
+      "طلب منظر طبيعي كامل أو رسم واقعي دقيق أو ملمس رقمي ناعم"
+    ]
+  }
+}
